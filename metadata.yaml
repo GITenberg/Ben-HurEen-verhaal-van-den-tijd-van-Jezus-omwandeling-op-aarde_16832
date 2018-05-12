@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/836
     wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16832#Ben-HurEen-verhaal-van-den-tijd-van-Jezus-omwandeling-op-aarde
 gutenberg_bookshelf:
 - Movie Books
 - Historical Fiction
